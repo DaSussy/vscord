@@ -69,7 +69,7 @@
 		"menu.selectionBackground": "#7289da",
 		"menu.separatorBackground": "#262729"
 	},
-	"tokenColors": [
+/*	"tokenColors": [
 		{
 			"name": "Comment",
 			"scope": ["comment", "punctuation.definition.comment"],
@@ -587,5 +587,7 @@
 				"foreground": "#EEFFFF"
 			}
 		}
+		
 	]
+	*/
 }
