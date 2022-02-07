@@ -1923,6 +1923,8 @@
 		"menu.selectionBackground": "#7289da",
 		"menu.separatorBackground": "#262729",
 		"activityBar.dropBorder": "#7289da",
+		"activityBar.activeBorder": "#7289da",
+		"sideBar.dropBackground": "#7289da6c"
 
 	}
 }
