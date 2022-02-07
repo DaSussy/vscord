@@ -227,7 +227,10 @@
 		},
 		{
 			"name": "java type",
-			"scope": ["storage.type.annotation.java", "storage.type.object.array.java"],
+			"scope": [
+				"storage.type.annotation.java",
+				"storage.type.object.array.java"
+			],
 			"settings": {
 				"foreground": "#e5c07b"
 			}
@@ -611,7 +614,12 @@
 		},
 		{
 			"name": "Functions",
-			"scope": ["entity.name.function", "meta.require", "support.function.any-method", "variable.function"],
+			"scope": [
+				"entity.name.function",
+				"meta.require",
+				"support.function.any-method",
+				"variable.function"
+			],
 			"settings": {
 				"foreground": "#61afef"
 			}
@@ -639,7 +647,11 @@
 		},
 		{
 			"name": "Class name",
-			"scope": ["entity.name.class", "variable.other.class.js", "variable.other.class.ts"],
+			"scope": [
+				"entity.name.class",
+				"variable.other.class.js",
+				"variable.other.class.ts"
+			],
 			"settings": {
 				"foreground": "#e5c07b"
 			}
@@ -1450,7 +1462,10 @@
 		},
 		{
 			"name": "go operator",
-			"scope": ["keyword.operator.arithmetic.go", "keyword.operator.address.go"],
+			"scope": [
+				"keyword.operator.arithmetic.go",
+				"keyword.operator.address.go"
+			],
 			"settings": {
 				"foreground": "#c678dd"
 			}
@@ -1492,7 +1507,10 @@
 		},
 		{
 			"name": "styling css pseudo-elements/classes to be able to differentiate from classes which are the same colour",
-			"scope": ["entity.other.attribute-name.pseudo-element", "entity.other.attribute-name.pseudo-class"],
+			"scope": [
+				"entity.other.attribute-name.pseudo-element",
+				"entity.other.attribute-name.pseudo-class"
+			],
 			"settings": {
 				"foreground": "#56b6c2"
 			}
@@ -1520,7 +1538,10 @@
 		},
 		{
 			"name": "CoffeeScript Function Argument",
-			"scope": ["meta.arguments.coffee", "variable.parameter.function.coffee"],
+			"scope": [
+				"meta.arguments.coffee",
+				"variable.parameter.function.coffee"
+			],
 			"settings": {
 				"foreground": "#e06c75"
 			}
@@ -1752,7 +1773,10 @@
 			}
 		},
 		{
-			"scope": ["constant.language.symbol.elixir", "constant.language.symbol.double-quoted.elixir"],
+			"scope": [
+				"constant.language.symbol.elixir",
+				"constant.language.symbol.double-quoted.elixir"
+			],
 			"settings": {
 				"foreground": "#56b6c2"
 			}
@@ -1792,7 +1816,10 @@
 		},
 		{
 			"name": "punctuation.section.embedded.begin.php",
-			"scope": ["punctuation.section.embedded.begin.php", "punctuation.section.embedded.end.php"],
+			"scope": [
+				"punctuation.section.embedded.begin.php",
+				"punctuation.section.embedded.end.php"
+			],
 			"settings": {
 				"foreground": "#BE5046"
 			}
@@ -1925,6 +1952,5 @@
 		"activityBar.dropBorder": "#7289da",
 		"activityBar.activeBorder": "#7289da",
 		"sideBar.dropBackground": "#7289da6c"
-
 	}
 }
