@@ -1896,7 +1896,7 @@
 		"minimap.warningHighlight": "#FAA81A",
 		"minimap.background": "#36393f",
 		"editorGroup.border": "#202225",
-
+		"editor.selectionHighlightBackground": "#7289da3a",
 		"editorGroupHeader.tabsBackground": "#2F3136",
 		"editorGroupHeader.tabsBorder": "#232428",
 		"tab.activeBackground": "#393C43",
@@ -1921,6 +1921,8 @@
 		"tab.inactiveBackground": "#34373C",
 		"menu.background": "#18191C",
 		"menu.selectionBackground": "#7289da",
-		"menu.separatorBackground": "#262729"
+		"menu.separatorBackground": "#262729",
+		"activityBar.dropBorder": "#7289da",
+
 	}
 }
